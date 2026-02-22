@@ -141,4 +141,4 @@ uvicorn main:app --reload
 
 ---
 
-*Built with ❤️ and a lot of good prompts — Moringa AI Capstone 2025*
+*Built with ❤️ and a lot of good prompts — Moringa AI Capstone 2026*
