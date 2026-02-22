@@ -110,7 +110,7 @@ A step-by-step checklist covering:
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/fastapi-toolkit.git
+git clone https://github.com/pupitymwendwa/fastapi-toolkit.git
 cd fastapi-toolkit
 
 # 2. Create and activate virtual environment
@@ -141,4 +141,4 @@ uvicorn main:app --reload
 
 ---
 
-*Built with ❤️ and a lot of good prompts — Moringa AI Capstone 2026*
+*Built with ❤️ and a lot of good prompts — Pupity Mwendwa · Moringa AI Capstone 2026*

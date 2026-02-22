@@ -24,7 +24,7 @@ A minimal, fully working FastAPI application demonstrating core framework featur
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/fastapi-toolkit.git
+git clone https://github.com/pupitymwendwa/fastapi-toolkit.git
 cd fastapi-toolkit
 ```
 
@@ -118,6 +118,7 @@ fastapi-toolkit/
 
 This project was built as part of the **Moringa AI Capstone — Beginner's Toolkit with GenAI**.
 Generative AI prompts were used throughout the learning and development process.
+**Author:** Pupity Mwendwa
 See the [Toolkit PDF](./FastAPI_Beginners_Toolkit.pdf) for the full AI Prompt Journal and documentation.
 
 ---

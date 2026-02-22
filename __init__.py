@@ -3,5 +3,5 @@
 # Version: 1.0.0
 
 __version__ = "1.0.0"
-__author__ = "Moringa Student"
+__author__ = "Pupity Mwendwa"
 __description__ = "A beginner-friendly FastAPI toolkit built with GenAI-assisted learning."
